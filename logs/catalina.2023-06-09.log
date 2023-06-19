@@ -1,0 +1,1125 @@
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 411 ms
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 24 ms
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 5 ms
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 3 ms
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 54 ms
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 4 ms
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 09:17:20 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 33 ms
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 453 ms
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 21 ms
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 09:37:54 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 70 ms
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 09:37:55 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 25 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 473 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 19 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 4 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 3 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 121 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 09:41:52 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 25 ms
+06 09, 2023 09:44:28 上午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:40)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 458 ms
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 23 ms
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 4 ms
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 3 ms
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 102 ms
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 09:52:16 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 27 ms
+06 09, 2023 09:52:25 上午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 227 ms
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 6 ms
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 1 ms
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 28 ms
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 09:58:17 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 8 ms
+06 09, 2023 10:00:00 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 10:00:00 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 194 ms
+06 09, 2023 10:00:00 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 6 ms
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 34 ms
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 10:00:01 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 16 ms
+06 09, 2023 10:00:42 上午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 387 ms
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 15 ms
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 65 ms
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 10:02:31 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 13 ms
+06 09, 2023 10:04:49 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:04:49 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 421 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 294 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 14 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 1 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 51 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 10:23:51 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 10 ms
+06 09, 2023 10:24:00 上午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 10:35:20 上午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@1dc1d623 检测到了Web应用下的重要文件变化 web.xml 
+06 09, 2023 10:35:20 上午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 10:35:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:35:20 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 47 ms
+06 09, 2023 10:35:20 上午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+06 09, 2023 10:36:26 上午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@5ee29853 检测到了Web应用下的重要文件变化 ClientJumpServlet.class 
+06 09, 2023 10:36:26 上午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 10:36:26 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:36:26 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 12 ms
+06 09, 2023 10:36:26 上午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 327 ms
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 16 ms
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 44 ms
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 10:36:46 上午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 8 ms
+06 09, 2023 10:37:10 上午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 442 ms
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 28 ms
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 4 ms
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 5 ms
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 83 ms
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 15:28:32 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 13 ms
+06 09, 2023 15:28:41 下午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 15:35:11 下午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@172c5db 检测到了Web应用下的重要文件变化 ServerJumpServlet.class 
+06 09, 2023 15:35:11 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 15:35:11 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:35:11 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 91 ms
+06 09, 2023 15:35:11 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+06 09, 2023 15:35:15 下午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@721292c9 检测到了Web应用下的重要文件变化 ServerJumpServlet.class 
+06 09, 2023 15:35:15 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 15:35:15 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:35:15 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 20 ms
+06 09, 2023 15:35:15 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+06 09, 2023 15:36:28 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 490 ms
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 29 ms
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 5 ms
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 3 ms
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 58 ms
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 15:36:29 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 10 ms
+06 09, 2023 15:36:38 下午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 15:42:07 下午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@689662bf 检测到了Web应用下的重要文件变化 web.xml 
+06 09, 2023 15:42:07 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 15:42:07 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:42:07 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 36 ms
+06 09, 2023 15:42:07 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 422 ms
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 25 ms
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 4 ms
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 3 ms
+06 09, 2023 15:46:22 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 241 ms
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 7 ms
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 1 ms
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 58 ms
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 15:47:02 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 11 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 394 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 15 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 92 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 15:55:34 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 12 ms
+06 09, 2023 15:56:11 下午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.example.diytomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:33)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:50)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 245 ms
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 6 ms
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 2 ms
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 16:01:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 40 ms
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb0
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb0 has finished in 21 ms
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 16:01:11 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 12 ms
+06 09, 2023 16:01:19 下午 org.example.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at org.example.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.example.diytomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:33)
+	at org.example.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:50)
+	at org.example.diytomcat.catalina.Connector$1.run(Connector.java:84)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+06 09, 2023 16:06:09 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 561 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 23 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb0
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb0 has finished in 171 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 6 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 3 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 38 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 16:06:10 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 16 ms
+06 09, 2023 16:06:24 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb1
+06 09, 2023 16:06:24 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb1 has finished in 45 ms
+06 09, 2023 16:10:17 下午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@756169ee 检测到了Web应用下的重要文件变化 web.xml 
+06 09, 2023 16:10:17 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 16:10:17 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 16:10:17 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 32 ms
+06 09, 2023 16:10:17 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 271 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 7 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb0
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb0 has finished in 61 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb1
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb1 has finished in 24 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 4 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 1 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 15 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 16:13:43 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 8 ms
+06 09, 2023 16:14:24 下午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@2cb5e438 检测到了Web应用下的重要文件变化 ContextListener.class 
+06 09, 2023 16:14:24 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 16:14:24 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\a
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\a has finished in 259 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\j2ee
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\j2ee has finished in 8 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb0
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb0 has finished in 55 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\javaweb1
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\javaweb1 has finished in 27 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\diytomcat\diytomcat\webapps\ROOT
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\diytomcat\diytomcat\webapps\ROOT has finished in 4 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/diytomcat/b
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/diytomcat/b has finished in 2 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/diytomcat/javaweb/web has finished in 17 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk-18.0.2
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		18.0.2+9-61
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+06 09, 2023 16:15:47 下午 org.example.diytomcat.catalina.Server start
+INFO : Server startup in 10 ms
+06 09, 2023 16:16:45 下午 org.example.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : org.example.diytomcat.watcher.ContextFileChangeWatcher@1b74faa3 检测到了Web应用下的重要文件变化 ContextListener.class 
+06 09, 2023 16:16:45 下午 org.example.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+06 09, 2023 16:16:45 下午 org.example.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/diytomcat/javaweb/web
